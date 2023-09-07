@@ -1,0 +1,10 @@
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\bin\Debug\calculatorWinFromApp.exe.config
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\bin\Debug\calculatorWinFromApp.exe
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\bin\Debug\calculatorWinFromApp.pdb
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.csprojAssemblyReference.cache
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.Form1.resources
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.Properties.Resources.resources
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.csproj.GenerateResource.cache
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.csproj.CoreCompileInputs.cache
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.exe
+E:\22.11.5180\calculatorAPP\calculatorWinFromApp\obj\Debug\calculatorWinFromApp.pdb
